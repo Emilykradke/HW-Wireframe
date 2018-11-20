@@ -20,12 +20,6 @@ header, nav, section, aside, footer {
     border-color: #777;
 }
 
-aside::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-
 aside {
     float: left;
     height: 255px;
